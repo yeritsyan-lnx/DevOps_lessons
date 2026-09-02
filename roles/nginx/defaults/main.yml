@@ -1,0 +1,5 @@
+---
+nginx_package: nginx
+website_root: /var/www/mywebsite
+nginx_port: 80
+website_name: mywebsite
